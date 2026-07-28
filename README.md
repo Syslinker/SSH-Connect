@@ -3,6 +3,10 @@
 Connect to a remote computer via SSH:
 
 ```bash
+In Windows CMD or PowerShell
+```
+
+```bash
 myssh ssh-connect <username> <ip-address>
 ```
 
