@@ -99,13 +99,13 @@ def main():
         print()
 
         print("Beispiel IPv4:")
-        print("myssh ssh-connect maher 192.168.1.50")
+        print("myssh ssh-connect maher ipv4")
 
         print()
 
         print("Beispiel IPv6:")
         print(
-            "myssh ssh-connect maher 2a02:3035:66f:f720:1d2:1177:7379:d22d"
+            "myssh ssh-connect maher ipv6"
         )
 
         sys.exit(1)
